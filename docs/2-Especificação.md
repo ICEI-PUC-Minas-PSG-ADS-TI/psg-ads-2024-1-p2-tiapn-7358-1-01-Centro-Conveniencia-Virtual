@@ -18,6 +18,8 @@ Carlos Ferreira, o pai solo:
 
 Carlos é um pai solo que trabalha em período integral para sustentar sua família. Ele é responsável por cuidar de seus dois filhos pequenos, levá-los à escola, ajudar com a lição de casa e preparar as refeições. Com sua agenda lotada, Carlos tem dificuldade em encontrar tempo para realizar reparos e manutenções em casa. Ele precisa de um serviço de manutenção domiciliar que possa lidar com tarefas como consertar torneiras com vazamento, substituir lâmpadas queimadas e realizar outras pequenas reformas. 
 
+![carlos_paisolo](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/691453fe-bdfa-4afe-b8fc-77ba41d548f4)
+
 Carla, a cuidadora de animais e plantas: 
 
 Carla é uma amante dos animais e das plantas que decidiu transformar sua paixão em um negócio. Ela oferece serviços de cuidados para animais de estimação, incluindo passeios, alimentação, limpeza e companhia para cães, gatos e outros animais domésticos. Além disso, Carla também oferece serviços de jardinagem e cuidados com plantas para clientes que precisam de ajuda para manter seus jardins e plantas de interior saudáveis e bonitos. 
