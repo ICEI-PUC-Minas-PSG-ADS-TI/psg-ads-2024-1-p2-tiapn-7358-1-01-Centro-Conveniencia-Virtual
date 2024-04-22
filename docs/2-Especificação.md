@@ -36,7 +36,9 @@ Rafael, o empreendedor:
 
 Rafael é um empreendedor que está construindo seu próprio negócio do zero. Ele passa a maior parte do tempo trabalhando em seu escritório em casa, desenvolvendo sua ideia de negócio, fazendo chamadas, respondendo e-mails e participando de reuniões online. Com todo esse trabalho, Rafael não tem tempo para cuidar do jardim de sua casa, que está se tornando uma bagunça. Ele precisa de um serviço de paisagismo que possa manter seu jardim bem cuidado. 
 
-![rafael-empreendedor](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/85df714f-80b2-4c5b-9654-7185aba8994e)
+<div align = "center">
+<img <img width="350px" alt="rafael empreendedor" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/878ee739-1277-424f-a8f2-9bd0a64db261">
+</div>
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
