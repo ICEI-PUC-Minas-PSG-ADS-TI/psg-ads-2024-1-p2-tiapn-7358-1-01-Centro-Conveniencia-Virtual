@@ -1,6 +1,16 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A proposta apresentada visa estabelecer uma plataforma inovadora, atuando como
+intermediária entre aqueles que buscam serviços específicos e indivíduos em busca de
+oportunidades de emprego. Dentro dessa iniciativa, nosso objetivo central é desenvolver uma
+solução eficaz e tecnologicamente avançada, facilitando a conexão eficiente entre as demandas
+da comunidade por serviços e os profissionais que desejam explorar oportunidades no mercado
+de trabalho.
+Ao empregar uma abordagem estratégica na implementação da tecnologia, buscamos não
+apenas abordar demandas práticas, mas também criar um ambiente propício para oportunidades
+equitativas. Esta plataforma não representa apenas uma solução para demandas imediatas, mas
+também simboliza nosso compromisso com a construção de uma comunidade mais resiliente e
+economicamente inclusiva.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
