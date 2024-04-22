@@ -27,6 +27,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 Objetivo Geral:
+
 Desenvolver e implementar uma plataforma tecnologicamente avançada, atuando como
 intermediário entre demandas específicas por serviços e profissionais em busca de
 oportunidades de emprego. O objetivo central é criar um ambiente digital que atenda de maneira
