@@ -33,10 +33,7 @@ Portanto, um site que funcione como um hub de serviços personalizados, bem como
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Diante do proposto, o website funcionará como uma nova oportunidade para contratar serviços e recebê-los, tendo como público-alvo pessoas que estão ocupadas no dia a dia e indivíduos que buscam maneiras de ganhar um dinheiro extra ou ter um hobby. Portanto, o site é voltado para aqueles que desejam oferecer serviços, bem como para aqueles que estão em busca deles. Dessa forma, alguns indivíduos vão disponibilizar serviços de jardinagem, reparos domésticos, cuidado de crianças ou idosos, culinária, tarefas domésticas, dentre outros, bem como as pessoas que necessitam desses serviços por falta de tempo em suas rotinas ou por não saberem realizar determinadas tarefas e precisarem de ajuda, poderão contratá-los. 
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
