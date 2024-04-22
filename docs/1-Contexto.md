@@ -26,13 +26,24 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Objetivo Geral:
+Desenvolver e implementar uma plataforma tecnologicamente avançada, atuando como
+intermediário entre demandas específicas por serviços e profissionais em busca de
+oportunidades de emprego. O objetivo central é criar um ambiente digital que atenda de maneira
+eficaz às necessidades práticas da comunidade, promovendo oportunidades equitativas e
+contribuindo para a formação de uma comunidade economicamente resiliente e inclusiva.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivos Específicos:
+-Criar uma interface de usuário intuitiva para facilitar o acesso à plataforma.
+-Integrar funcionalidades de avaliação e retorno para garantir a qualidade dos serviços prestados
+e promover a confiança entre os usuários da plataforma.
+-Oferecer suporte técnico eficiente e canais de comunicação acessíveis para resolver
+rapidamente quaisquer problemas ou dúvidas dos usuários.
+- Desenvolver funcionalidades de busca avançada, facilitando a localização eficiente de
+serviços específicos e profissionais qualificados.
+- Implementar medidas de segurança para proteger a privacidade e os dados sensíveis dos
+usuários na plataforma.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
