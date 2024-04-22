@@ -8,9 +8,26 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Ana, a executiva sobrecarregada: 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Ana é uma executiva de uma empresa de tecnologia que trabalha longas horas e viaja com frequência a negócios. Ela está constantemente ocupada com reuniões, prazos e compromissos profissionais. Embora ela adore sua carreira, sua agenda agitada significa que ela tem pouco tempo para cuidar das tarefas domésticas. Ela precisa de um serviço de limpeza confiável para manter sua casa em ordem enquanto ela está ausente e para ajudá-la nos raros momentos em que ela está em casa. 
+
+Carlos Ferreira, o pai solo: 
+
+Carlos é um pai solo que trabalha em período integral para sustentar sua família. Ele é responsável por cuidar de seus dois filhos pequenos, levá-los à escola, ajudar com a lição de casa e preparar as refeições. Com sua agenda lotada, Carlos tem dificuldade em encontrar tempo para realizar reparos e manutenções em casa. Ele precisa de um serviço de manutenção domiciliar que possa lidar com tarefas como consertar torneiras com vazamento, substituir lâmpadas queimadas e realizar outras pequenas reformas. 
+
+Carla, a cuidadora de animais e plantas: 
+
+Carla é uma amante dos animais e das plantas que decidiu transformar sua paixão em um negócio. Ela oferece serviços de cuidados para animais de estimação, incluindo passeios, alimentação, limpeza e companhia para cães, gatos e outros animais domésticos. Além disso, Carla também oferece serviços de jardinagem e cuidados com plantas para clientes que precisam de ajuda para manter seus jardins e plantas de interior saudáveis e bonitos. 
+
+Maria, a médica plantonista: 
+
+Maria é uma médica que trabalha em regime de plantão em um hospital. Seu trabalho imprevisível muitas vezes a mantém ocupada durante a noite e nos fins de semana. Quando ela finalmente tem tempo livre, prefere relaxar e recarregar suas energias em vez de se preocupar com as tarefas domésticas. Ela precisa de um serviço de entrega de alimentos saudáveis e preparados para ajudá-la a manter uma dieta equilibrada e nutritiva, mesmo nos dias em que está muito ocupada para cozinhar. 
+
+Rafael, o empreendedor: 
+
+Rafael é um empreendedor que está construindo seu próprio negócio do zero. Ele passa a maior parte do tempo trabalhando em seu escritório em casa, desenvolvendo sua ideia de negócio, fazendo chamadas, respondendo e-mails e participando de reuniões online. Com todo esse trabalho, Rafael não tem tempo para cuidar do jardim de sua casa, que está se tornando uma bagunça. Ele precisa de um serviço de paisagismo que possa manter seu jardim bem cuidado. 
+
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
