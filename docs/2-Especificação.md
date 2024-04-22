@@ -24,6 +24,8 @@ Carla, a cuidadora de animais e plantas:
 
 Carla é uma amante dos animais e das plantas que decidiu transformar sua paixão em um negócio. Ela oferece serviços de cuidados para animais de estimação, incluindo passeios, alimentação, limpeza e companhia para cães, gatos e outros animais domésticos. Além disso, Carla também oferece serviços de jardinagem e cuidados com plantas para clientes que precisam de ajuda para manter seus jardins e plantas de interior saudáveis e bonitos. 
 
+![carla_cuidadora](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/121c61f1-e2c6-408a-9061-4c44da759342)
+
 Maria, a médica plantonista: 
 
 Maria é uma médica que trabalha em regime de plantão em um hospital. Seu trabalho imprevisível muitas vezes a mantém ocupada durante a noite e nos fins de semana. Quando ela finalmente tem tempo livre, prefere relaxar e recarregar suas energias em vez de se preocupar com as tarefas domésticas. Ela precisa de um serviço de entrega de alimentos saudáveis e preparados para ajudá-la a manter uma dieta equilibrada e nutritiva, mesmo nos dias em que está muito ocupada para cozinhar. 
