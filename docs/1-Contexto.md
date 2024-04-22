@@ -6,6 +6,7 @@ oportunidades de emprego. Dentro dessa iniciativa, nosso objetivo central é des
 solução eficaz e tecnologicamente avançada, facilitando a conexão eficiente entre as demandas
 da comunidade por serviços e os profissionais que desejam explorar oportunidades no mercado
 de trabalho.
+
 Ao empregar uma abordagem estratégica na implementação da tecnologia, buscamos não
 apenas abordar demandas práticas, mas também criar um ambiente propício para oportunidades
 equitativas. Esta plataforma não representa apenas uma solução para demandas imediatas, mas
