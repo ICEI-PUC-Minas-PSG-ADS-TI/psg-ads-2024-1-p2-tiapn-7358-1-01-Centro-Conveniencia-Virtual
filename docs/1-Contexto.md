@@ -35,6 +35,7 @@ contribuindo para a formação de uma comunidade economicamente resiliente e inc
 
 
 Objetivos Específicos:
+
 -Criar uma interface de usuário intuitiva para facilitar o acesso à plataforma.
 
 -Integrar funcionalidades de avaliação e retorno para garantir a qualidade dos serviços prestados
@@ -43,10 +44,10 @@ e promover a confiança entre os usuários da plataforma.
 -Oferecer suporte técnico eficiente e canais de comunicação acessíveis para resolver
 rapidamente quaisquer problemas ou dúvidas dos usuários.
 
-- Desenvolver funcionalidades de busca avançada, facilitando a localização eficiente de
+-Desenvolver funcionalidades de busca avançada, facilitando a localização eficiente de
 serviços específicos e profissionais qualificados.
 
-- Implementar medidas de segurança para proteger a privacidade e os dados sensíveis dos
+-Implementar medidas de segurança para proteger a privacidade e os dados sensíveis dos
 usuários na plataforma.
 
 
