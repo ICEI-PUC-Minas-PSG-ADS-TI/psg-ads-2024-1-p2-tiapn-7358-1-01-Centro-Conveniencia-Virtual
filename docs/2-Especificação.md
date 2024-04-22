@@ -12,6 +12,8 @@ Ana, a executiva sobrecarregada:
 
 Ana é uma executiva de uma empresa de tecnologia que trabalha longas horas e viaja com frequência a negócios. Ela está constantemente ocupada com reuniões, prazos e compromissos profissionais. Embora ela adore sua carreira, sua agenda agitada significa que ela tem pouco tempo para cuidar das tarefas domésticas. Ela precisa de um serviço de limpeza confiável para manter sua casa em ordem enquanto ela está ausente e para ajudá-la nos raros momentos em que ela está em casa. 
 
+![Ana-executiva](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/6c7cfe2e-9df0-4045-bfd2-256b6761e633)
+
 Carlos Ferreira, o pai solo: 
 
 Carlos é um pai solo que trabalha em período integral para sustentar sua família. Ele é responsável por cuidar de seus dois filhos pequenos, levá-los à escola, ajudar com a lição de casa e preparar as refeições. Com sua agenda lotada, Carlos tem dificuldade em encontrar tempo para realizar reparos e manutenções em casa. Ele precisa de um serviço de manutenção domiciliar que possa lidar com tarefas como consertar torneiras com vazamento, substituir lâmpadas queimadas e realizar outras pequenas reformas. 
