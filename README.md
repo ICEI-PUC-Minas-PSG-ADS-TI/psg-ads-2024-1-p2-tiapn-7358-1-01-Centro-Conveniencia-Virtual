@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Centro de Conveniência Virtual
 
 `Análise e Desenvolvimento de Sistemas`
 
