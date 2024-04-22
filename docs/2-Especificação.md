@@ -12,25 +12,34 @@ Ana, a executiva sobrecarregada:
 
 Ana é uma executiva de uma empresa de tecnologia que trabalha longas horas e viaja com frequência a negócios. Ela está constantemente ocupada com reuniões, prazos e compromissos profissionais. Embora ela adore sua carreira, sua agenda agitada significa que ela tem pouco tempo para cuidar das tarefas domésticas. Ela precisa de um serviço de limpeza confiável para manter sua casa em ordem enquanto ela está ausente e para ajudá-la nos raros momentos em que ela está em casa. 
 
-![Ana-executiva](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/6c7cfe2e-9df0-4045-bfd2-256b6761e633)
+<div align = "center">
+<img <img width="350px" alt="anaexecutiva" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/2a506614-99fd-4b53-9934-ee80b12458b2">
+</div>
+
 
 Carlos Ferreira, o pai solo: 
 
 Carlos é um pai solo que trabalha em período integral para sustentar sua família. Ele é responsável por cuidar de seus dois filhos pequenos, levá-los à escola, ajudar com a lição de casa e preparar as refeições. Com sua agenda lotada, Carlos tem dificuldade em encontrar tempo para realizar reparos e manutenções em casa. Ele precisa de um serviço de manutenção domiciliar que possa lidar com tarefas como consertar torneiras com vazamento, substituir lâmpadas queimadas e realizar outras pequenas reformas. 
 
-![carlos_paisolo](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/691453fe-bdfa-4afe-b8fc-77ba41d548f4)
+<div align = "center">
+<img <img width="350px"alt="paisolo" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/94268d2a-a092-43bf-891a-bea1fb039d80">
+</div>
 
 Carla, a cuidadora de animais e plantas: 
 
 Carla é uma amante dos animais e das plantas que decidiu transformar sua paixão em um negócio. Ela oferece serviços de cuidados para animais de estimação, incluindo passeios, alimentação, limpeza e companhia para cães, gatos e outros animais domésticos. Além disso, Carla também oferece serviços de jardinagem e cuidados com plantas para clientes que precisam de ajuda para manter seus jardins e plantas de interior saudáveis e bonitos. 
 
-![carla_cuidadora](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/121c61f1-e2c6-408a-9061-4c44da759342)
+<div align = "center">
+<img <img width="350px" alt="carlacuidadora" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/ab47c409-fcee-43eb-bb9f-2e94501bdc4c">
+</div>
 
 Maria, a médica plantonista: 
 
 Maria é uma médica que trabalha em regime de plantão em um hospital. Seu trabalho imprevisível muitas vezes a mantém ocupada durante a noite e nos fins de semana. Quando ela finalmente tem tempo livre, prefere relaxar e recarregar suas energias em vez de se preocupar com as tarefas domésticas. Ela precisa de um serviço de entrega de alimentos saudáveis e preparados para ajudá-la a manter uma dieta equilibrada e nutritiva, mesmo nos dias em que está muito ocupada para cozinhar. 
 
-![maria_medica](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/0aa79904-2f8a-48ac-8db1-c7ba93b98d26)
+<div align = "center">
+<img <img width="350px"alt="mariamedica" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/f15c2075-b02b-42da-83b3-7bd75680b958">
+</div>
 
 Rafael, o empreendedor: 
 
