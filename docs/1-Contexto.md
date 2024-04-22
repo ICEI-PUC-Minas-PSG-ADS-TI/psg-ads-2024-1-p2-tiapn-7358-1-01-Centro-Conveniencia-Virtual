@@ -25,12 +25,11 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Essa proposta se justifica à luz do conceito de “modernidade líquida” proposto pelo sociólogo Zygmunt Bauman em 1999, que descreve uma era caracterizada por relações sociais e institucionais fluidas, ágeis e maleáveis, assim como os líquidos. Assim, nessa nova dinâmica social, a sociedade demanda respostas cada vez mais rápidas e adaptações constantes. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Diante dessa urgência e dinamicidade inerentes às relações atuais, torna-se imprescindível o desenvolvimento de uma plataforma que possa acompanhar essa volatilidade. Dessa forma, o grupo identificou que a falta de uma estrutura centralizada para serviços dificulta o acesso a eles, contrariando a necessidade contemporânea atual do imediatismo. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Portanto, um site que funcione como um hub de serviços personalizados, bem como um centro de conveniência virtual, se justifica não apenas pela urgência de resolver problemas do dia a dia, mas também pela necessidade dos prestadores de serviços de alcançar um maior número de clientes para acumular patrimônio. Assim, seguindo a lógica socioeconômica capitalista atual, será possível centralizar ambas as carências. Nesse sentido, ao se adequar às exigências da modernidade líquida, essa plataforma resolverá a demanda de um setor no qual a volatilidade e a rapidez são essenciais. 
 
 ## Público-Alvo
 
