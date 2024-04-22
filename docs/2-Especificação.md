@@ -30,6 +30,8 @@ Maria, a médica plantonista:
 
 Maria é uma médica que trabalha em regime de plantão em um hospital. Seu trabalho imprevisível muitas vezes a mantém ocupada durante a noite e nos fins de semana. Quando ela finalmente tem tempo livre, prefere relaxar e recarregar suas energias em vez de se preocupar com as tarefas domésticas. Ela precisa de um serviço de entrega de alimentos saudáveis e preparados para ajudá-la a manter uma dieta equilibrada e nutritiva, mesmo nos dias em que está muito ocupada para cozinhar. 
 
+![maria_medica](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/0aa79904-2f8a-48ac-8db1-c7ba93b98d26)
+
 Rafael, o empreendedor: 
 
 Rafael é um empreendedor que está construindo seu próprio negócio do zero. Ele passa a maior parte do tempo trabalhando em seu escritório em casa, desenvolvendo sua ideia de negócio, fazendo chamadas, respondendo e-mails e participando de reuniões online. Com todo esse trabalho, Rafael não tem tempo para cuidar do jardim de sua casa, que está se tornando uma bagunça. Ele precisa de um serviço de paisagismo que possa manter seu jardim bem cuidado. 
