@@ -2,7 +2,7 @@
 
 Etapa Do Projeto De Solução:
 
-- Análise e Pesquisa: Conduzir uma análise detalhada das necessidades da comunidade,
+-Análise e Pesquisa: Conduzir uma análise detalhada das necessidades da comunidade,
 identificando demandas prioritárias. Realizar pesquisa de mercado local e global para entender
 as oportunidades disponíveis.
 
