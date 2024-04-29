@@ -1,6 +1,6 @@
 ## 4. Projeto da Solução
 
-Etapa Do Projeto De Solução:
+**Etapa Do Projeto De Solução:**
 
 -Análise e Pesquisa: Conduzir uma análise detalhada das necessidades da comunidade,
 identificando demandas prioritárias. Realizar pesquisa de mercado local e global para entender
@@ -20,7 +20,7 @@ Monitoramento: Implementar sistemas de monitoramento para avaliar o desempenho d
 plataforma, coletar feedbacks e realizar melhorias contínuas. Manter comunicação aberta com
 os usuários.
 
-Resultados Esperados:
+**Resultados Esperados:**
 
 -Uma plataforma eficiente que conecta com sucesso demandas por serviços a profissionais em
 busca de oportunidades de emprego.
