@@ -6,7 +6,24 @@
 > - [20 Dicas Práticas de Modelagem de Processos](https://dheka.com.br/20-dicas-praticas-de-modelagem-de-processos/)
 
 ### 3.1. Modelagem da situação atual (Modelagem AS IS)
+![AS IS](./docs/images/AS%20IF.png)
 
+**Problema na Integração Demandas e Ofertas:** 
+Existe uma dificuldade em unir pessoas que buscam serviços com aquelas que procuram emprego, impactando a eficácia no atendimento às necessidades da comunidade. 
+
+**Desigualdade de Oportunidades:** 
+A situação ressalta a importância de garantir igualdade de oportunidades, sendo a falta delas um obstáculo que pode resultar em restrições de acesso para certos grupos. 
+
+**Necessidade de Tecnologia Avançada:** 
+A ausência de uma plataforma tecnologicamente avançada dificulta a conexão eficiente entre quem procura serviços e quem busca empregos, limitando a eficácia da solução. 
+
+**Barreiras para Inclusão:** 
+Apesar da importância da inclusão, a falta de detalhes sobre superação de possíveis obstáculos pode resultar em práticas excluídas para alguns grupos. 
+
+**Falta de Clareza na Avaliação Contínua:**
+Embora a avaliação contínua seja destacada, a falta de detalhes sobre o processo pode dificultar a identificação de áreas necessárias de ajuste. 
+
+ 
 _Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
 
 Com o tema do projeto definido, escolham alguns processos neste contexto de negócios. Para ilustrar potenciais ganhos com a automatização, imaginem processos manuais, ineficientes e/ou com muitas idas e vindas, gerando, assim, retrabalho.
