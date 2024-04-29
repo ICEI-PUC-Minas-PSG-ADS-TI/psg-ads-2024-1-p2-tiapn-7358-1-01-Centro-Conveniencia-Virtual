@@ -1,23 +1,16 @@
 # Introdução
 
-A proposta apresentada visa estabelecer uma plataforma inovadora, atuando como
-intermediária entre aqueles que buscam serviços específicos e indivíduos em busca de
-oportunidades de emprego. Dentro dessa iniciativa, nosso objetivo central é desenvolver uma
-solução eficaz e tecnologicamente avançada, facilitando a conexão eficiente entre as demandas
-da comunidade por serviços e os profissionais que desejam explorar oportunidades no mercado
-de trabalho.
+A proposta apresentada visa estabelecer uma plataforma inovadora, atuando como intermediária entre aqueles que buscam serviços específicos e indivíduos em busca de
+oportunidades de emprego. Dentro dessa iniciativa, nosso objetivo central é desenvolver uma solução eficaz e tecnologicamente avançada, facilitando a conexão eficiente entre as demandas da comunidade por serviços e os profissionais que desejam explorar oportunidades no mercado de trabalho.
 
-Ao empregar uma abordagem estratégica na implementação da tecnologia, buscamos não
-apenas abordar demandas práticas, mas também criar um ambiente propício para oportunidades
-equitativas. Esta plataforma não representa apenas uma solução para demandas imediatas, mas
-também simboliza nosso compromisso com a construção de uma comunidade mais resiliente e
-economicamente inclusiva.
+Ao empregar uma abordagem estratégica na implementação da tecnologia, buscamos não apenas abordar demandas práticas, mas também criar um ambiente propício para oportunidades equitativas. Esta plataforma não representa apenas uma solução para demandas imediatas, mas também simboliza nosso compromisso com a construção de uma comunidade mais resiliente e economicamente inclusiva.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O problema que a aplicação visa resolver é a falta de uma plataforma centralizada que conecte de forma eficiente os prestadores de serviços e aqueles que necessitam desses serviços. Atualmente, muitas pessoas enfrentam dificuldades para encontrar profissionais qualificados para realizar tarefas específicas, enquanto, por outro lado, há indivíduos em busca de oportunidades de emprego ou de ganhar um dinheiro extra, mas têm dificuldade em alcançar clientes em potencial.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O contexto em que essa aplicação será usada é o cenário moderno caracterizado pelas relações sociais e institucionais são fluidas e rápidas, demandando respostas ágeis e adaptações constantes. A plataforma proposta se alinha a essa dinâmica social, oferecendo uma solução  que atende às necessidades contemporâneas por meio de um website.
 
+// verificar depois
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
@@ -28,28 +21,21 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 ## Objetivos
 Objetivo Geral:
 
-Desenvolver e implementar uma plataforma tecnologicamente avançada, atuando como
-intermediário entre demandas específicas por serviços e profissionais em busca de
-oportunidades de emprego. O objetivo central é criar um ambiente digital que atenda de maneira
-eficaz às necessidades práticas da comunidade, promovendo oportunidades equitativas e
-contribuindo para a formação de uma comunidade economicamente resiliente e inclusiva.
+Desenvolver e implementar uma plataforma tecnologicamente avançada, atuando como intermediário entre demandas específicas por serviços e profissionais em busca de
+oportunidades de emprego. O objetivo central é criar um ambiente digital que atenda de maneira eficaz às necessidades práticas da comunidade, promovendo oportunidades e contribuindo para a formação de uma comunidade economicamente resiliente e inclusiva.
 
 
 Objetivos Específicos:
 
 -Criar uma interface de usuário intuitiva para facilitar o acesso à plataforma.
 
--Integrar funcionalidades de avaliação e retorno para garantir a qualidade dos serviços prestados
-e promover a confiança entre os usuários da plataforma.
+-Integrar funcionalidades de avaliação e retorno para garantir a qualidade dos serviços prestados e promover a confiança entre os usuários da plataforma.
 
--Oferecer suporte técnico eficiente e canais de comunicação acessíveis para resolver
-rapidamente quaisquer problemas ou dúvidas dos usuários.
+-Oferecer suporte técnico eficiente e canais de comunicação acessíveis para resolver rapidamente quaisquer problemas ou dúvidas dos usuários.
 
--Desenvolver funcionalidades de busca avançada, facilitando a localização eficiente de
-serviços específicos e profissionais qualificados.
+-Desenvolver funcionalidades de busca avançada, facilitando a localização eficiente de serviços específicos e profissionais qualificados.
 
--Implementar medidas de segurança para proteger a privacidade e os dados sensíveis dos
-usuários na plataforma.
+-Implementar medidas de segurança para proteger a privacidade e os dados sensíveis dos usuários na plataforma.
 
 
 ## Justificativa
