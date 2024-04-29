@@ -6,7 +6,10 @@
 > - [20 Dicas Práticas de Modelagem de Processos](https://dheka.com.br/20-dicas-praticas-de-modelagem-de-processos/)
 
 ### 3.1. Modelagem da situação atual (Modelagem AS IS)
-![AS IS](./docs/images/AS%20IF.png)
+
+<div align="center">
+<img src="![AS IS](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143443978/7fc628a7-cd1c-470b-b500-800133dae991)" width="700px" />
+</div>
 
 **Problema na Integração Demandas e Ofertas:** 
 Existe uma dificuldade em unir pessoas que buscam serviços com aquelas que procuram emprego, impactando a eficácia no atendimento às necessidades da comunidade. 
