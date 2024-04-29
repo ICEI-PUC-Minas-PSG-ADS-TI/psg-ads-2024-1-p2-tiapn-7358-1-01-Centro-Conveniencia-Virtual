@@ -23,7 +23,7 @@ Formulário de registro em um monitor de computador. Esse formulário solicita i
 <div align = "center">
 <img <img width="265" alt="telacadastro" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/62701b53-484b-467c-bc33-a8b7f266e523"></div>
 
-Esta tela será feito o login do usuário.
+Essa tela de login é uma etapa essencial na segurança dos dados online. Ao inserir suas credenciais corretas, os usuários podem acessar serviços protegidos por senha, como contas bancárias, e-mails e redes sociais. Isso garante que apenas pessoas autorizadas tenham acesso aos dados e funcionalidades associadas à conta, protegendo a privacidade e a segurança dos usuários.
 
 [`Tela de Login`]
 <div align = "center">
@@ -32,7 +32,7 @@ Esta tela será feito o login do usuário.
 
 ## 6.3. Telas do processo 2
 
-_Descrição da tela relativa à atividade 1._
+Esta tela é uma plataforma para interagir com serviços, obter informações e navegar por diferentes áreas.
 
 [`Tela dos Serviços`]
 <div align = "center">
