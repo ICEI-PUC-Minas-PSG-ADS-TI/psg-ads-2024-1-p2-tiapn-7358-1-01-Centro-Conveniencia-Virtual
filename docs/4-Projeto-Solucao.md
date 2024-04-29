@@ -95,16 +95,15 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 
 ### 4.4. Tecnologias
+Para a implementação do projeto em questão, estão sendo adotadas diversas tecnologias e ferramentas de ponta, visando proporcionar uma experiência robusta e moderna. A seleção criteriosa dessas tecnologias tem como objetivo otimizar o processo de desenvolvimento e oferecer uma solução eficiente aos usuários finais. 
 
-_Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas._
+A escolha central do ambiente de desenvolvimento recai sobre o Visual Studio, uma IDE (Integrated Development Environment) de destaque no mercado, reconhecida por sua versatilidade e suporte abrangente a várias linguagens de programação. Neste contexto específico, o Visual Studio é empregado para a programação web, fazendo uso de sua interface intuitiva e suas capacidades de depuração avançadas, as quais aceleram significativamente o ciclo de desenvolvimento. 
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+ Adicionalmente, incorpora-se o Bootstrap, um framework front-end que facilita a criação de interfaces web responsivas e esteticamente agradáveis. O Bootstrap oferece um conjunto de estilos predefinidos e componentes reutilizáveis que aprimoram a consistência visual e a experiência do usuário em diversos dispositivos. 
 
+As IDE’s  assumem uma função crucial no fluxo de trabalho, proporcionando ferramentas poderosas para a edição de código, gerenciamento de projetos e depuração eficiente. A escolha de uma IDE eficaz é fundamental para a produtividade e qualidade do código, sendo empregada uma integrada ao Visual Studio para garantir um ambiente de desenvolvimento integrado e eficaz. 
 
-| **Dimensão**   | **Tecnologia**  |
-| ---            | ---             |
-| SGBD           | MySQL           |
-| Front end      | HTML+CSS+JS     |
-| Back end       | Java SpringBoot |
-| Deploy         | Github Pages    |
+Além disso, destaca-se a utilização do Javascript como componente essencial do projeto. Esta linguagem de programação do lado do cliente oferece dinamismo e interatividade às páginas web, permitindo a criação de interfaces ricas e responsivas. 
+
+Ao combinar essas tecnologias, o projeto busca atender não apenas aos requisitos funcionais, mas também proporcionar uma experiência de usuário envolvente e moderna. A sinergia entre Visual Studio, Bootstrap, IDEs e Javascript cria uma base sólida para o desenvolvimento web eficiente e eficaz. 
 
