@@ -7,8 +7,9 @@
 
 ### 3.1. Modelagem da situação atual (Modelagem AS IS)
 
+
 <div align="center">
-<img src="![AS IS](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143443978/7fc628a7-cd1c-470b-b500-800133dae991)" width="700px" />
+<img src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143443978/7fc628a7-cd1c-470b-b500-800133dae991" width="700px" />
 </div>
 
 **Problema na Integração Demandas e Ofertas:** 
