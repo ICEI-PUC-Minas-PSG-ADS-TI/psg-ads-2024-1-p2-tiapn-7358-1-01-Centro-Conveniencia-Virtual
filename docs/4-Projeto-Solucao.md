@@ -47,9 +47,14 @@ proporcionados pela plataforma.
 Tela Principal
 
 <div align = "center">
-<img <img width="350px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telaprinc.jpeg?raw=true)">
+<img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telaprinc.jpeg?raw=true)">
 </div>
 
+Tela Sobre Serviços
+
+<div align = "center">
+<img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telaservi%C3%A7os.jpeg?raw=true">
+</div>
 
 ### 4.3. Modelo de dados
 
