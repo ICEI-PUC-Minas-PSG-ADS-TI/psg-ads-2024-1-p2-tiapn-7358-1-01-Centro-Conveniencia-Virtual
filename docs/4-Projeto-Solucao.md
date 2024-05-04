@@ -47,7 +47,7 @@ proporcionados pela plataforma.
 Tela Principal
 
 <div align = "center">
-<img <img width="350px"alt="Principal" src="[https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/94268d2a-a092-43bf-891a-bea1fb039d80](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telaprinc.jpeg?raw=true)">
+<img <img width="350px"alt="Principal" src="docs/images/telaprinc.jpeg">
 </div>
 
 
