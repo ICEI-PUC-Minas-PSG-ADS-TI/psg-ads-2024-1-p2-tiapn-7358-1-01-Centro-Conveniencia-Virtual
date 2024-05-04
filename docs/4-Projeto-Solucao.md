@@ -47,7 +47,7 @@ proporcionados pela plataforma.
 Tela Principal
 
 <div align = "center">
-<img <img width="350px"alt="Principal" src="docs/images/telaprinc.jpeg">
+<img <img width="350px"alt="Principal" src="[docs/images/telaprinc.jpeg](https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telaprinc.jpeg?raw=true)">
 </div>
 
 
