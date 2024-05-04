@@ -56,6 +56,20 @@ Tela Sobre Serviços
 <img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telaservi%C3%A7os.jpeg?raw=true">
 </div>
 
+Tela Cadastro
+
+<div align = "center">
+<img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telacadastro.jpeg?raw=true">
+</div>
+
+Tela Login
+
+<div align = "center">
+<img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telacadastro.jpeg?raw=true">
+</div>
+
+
+
 ### 4.3. Modelo de dados
 
 O desenvolvimento da solução proposta requer a existência de bases de dados que permitam efetuar os cadastros de dados e controles associados aos processos identificados, assim como recuperações.
