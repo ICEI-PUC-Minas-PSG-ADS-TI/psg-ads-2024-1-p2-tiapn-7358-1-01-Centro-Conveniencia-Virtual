@@ -65,7 +65,7 @@ Tela Cadastro
 Tela Login
 
 <div align = "center">
-<img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telacadastro.jpeg?raw=true">
+<img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/telalogin.jpeg?raw=true">
 </div>
 
 
