@@ -27,7 +27,7 @@
 
 ## Sprint 1
 
-Atualizado em: 05/05/2024
+Atualizado em: 09/03/2024
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
@@ -36,16 +36,19 @@ Atualizado em: 05/05/2024
 | Iago Pereira Alves | Histórias de usuário  |15/02/2024 |11/03/2024| ✔️     | 09/03/2024 |
 | Gabriela Cristina Freitas de Lima | Personas 1  |15/02/2024 |11/03/2024| ✔️   | 09/03/2024 |
 
-## Sprint 2
+## Sprint 3
 
-Atualizado em: 21/04/2024
+Atualizado em: 05/05/2024
 
-| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
-| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Home-Page        | 01/02/2024     | 07/03/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | CSS Unificado    | 03/02/2024     | 10/03/2024 | 📝    |                 |
-| AlunoY        | Página de login  | 01/02/2024     | 07/03/2024 | ⌛     |                 |
-| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |       |
+| Responsável   | Tarefa/Requisito                | Iniciado em    | Prazo      | Status | Terminado em    |
+| :----         |    :----                        |      :----:    | :----:     | :----: | :----:          |
+| AlunaX        | Home-Page                       | 01/02/2024     | 07/03/2024 | ✔️    | 05/01/2005      |
+| Todos | Planejamento da Sprint 3  - Divisão Protótipo de telas      | 08/04/2024    | 22/04/2024  | 15/04/2024 | 15/04/2024|
+| Todos | Diagrama Entidade-Relacionamento| 15/04/2024 | 22/04/2024 | ✔️|22/04/2024|
+|Todos | Projeto da Solução |22/04/2024| 29/04/2024 |22/04/2024| 29/04/2024 |
+|Todos | Protótipo de telas | 22/04/2024 | 29/04/2024 |   ✔️     |04/05/2024 |
+| Todos | Tecnologias e arquitetura da aplicação | 29/04/2024 | 29/04/2024 |   ✔️     |04/05/2024 |
+
 
 
 Legenda:
@@ -55,9 +58,5 @@ Legenda:
 - ❌: não iniciado
 
 
-
-## Links Úteis
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
