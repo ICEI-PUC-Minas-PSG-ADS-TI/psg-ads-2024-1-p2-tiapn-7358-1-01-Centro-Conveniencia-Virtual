@@ -23,7 +23,7 @@
 
 ## 5.1. Quadro de tarefas
 
-> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme exemplo abaixo.
+Divisão de tarefas entre os membros do grupo e o acompanhamento da execução:
 
 ## Sprint 1
 
