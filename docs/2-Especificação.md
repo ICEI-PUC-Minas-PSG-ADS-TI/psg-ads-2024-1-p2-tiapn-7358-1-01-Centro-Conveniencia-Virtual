@@ -53,15 +53,16 @@ Rafael é um empreendedor que está construindo seu próprio negócio do zero. E
 <img width="700px" alt="historiaUsuario" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/b85ace0e-6d5e-45da-9970-f302ee3b1b0f">
 </div>
 
+| EU COMO...           | QUERO/PRECISO...                                  | PARA...                                           |
+|----------------------|----------------------------------------------------|--------------------------------------------------|
+| Gael Souza           | Achar alguém que faça comida e cuide de crianças | Alimentar meus irmãos e cuidar deles              |
+| Jaqueline Thayllor   | Poder pesquisar apenas um tipo de serviço         | Para otimizar a pesquisa                          |
+| Júnia Abel           | Ter um espaço que ensine a navegar pelo site       | Poder participar e não ter dificuldades tecnológicas |
+| Juliana Paes         | Poder comentar sobre o profissional                | Agradecer o serviço e melhorar a usabilidade     |
+| Davidson Silva       | Ter um perfil pessoal que torne possível fazer login/logoff | Maior a usabilidade e individualização do usuário |
+| Ben Affleck          | Preciso de um calendário para olhar os dias disponíveis de cada trabalho oferecido | Organizar meu dia e marcar com antecedência     |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-
+Agora a tabela está organizada corretamente.
 
 ## Requisitos
 
