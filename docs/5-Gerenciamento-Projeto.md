@@ -42,10 +42,9 @@ Atualizado em: 05/05/2024
 
 | Responsável   | Tarefa/Requisito                | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----                        |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Home-Page                       | 01/02/2024     | 07/03/2024 | ✔️    | 05/01/2005      |
-| Todos | Planejamento da Sprint 3  - Divisão Protótipo de telas      | 08/04/2024    | 22/04/2024  | 15/04/2024 | 15/04/2024|
+| Todos | Planejamento da Sprint 3  - Divisão Protótipo de telas      | 08/04/2024    | 22/04/2024  |✔️| 15/04/2024|
 | Todos | Diagrama Entidade-Relacionamento| 15/04/2024 | 22/04/2024 | ✔️|22/04/2024|
-|Todos | Projeto da Solução |22/04/2024| 29/04/2024 |22/04/2024| 29/04/2024 |
+|Todos | Projeto da Solução |22/04/2024| 29/04/2024 |✔️| 29/04/2024 |
 |Todos | Protótipo de telas | 22/04/2024 | 29/04/2024 |   ✔️     |04/05/2024 |
 | Todos | Tecnologias e arquitetura da aplicação | 29/04/2024 | 29/04/2024 |   ✔️     |04/05/2024 |
 
