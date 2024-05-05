@@ -49,9 +49,6 @@ Rafael é um empreendedor que está construindo seu próprio negócio do zero. E
 
 
 ## Histórias de Usuários
-<div align = "center">
-<img width="700px" alt="historiaUsuario" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/b85ace0e-6d5e-45da-9970-f302ee3b1b0f">
-</div>
 
 | EU COMO...           | QUERO/PRECISO...                                  | PARA...                                           |
 |----------------------|----------------------------------------------------|--------------------------------------------------|
@@ -62,7 +59,6 @@ Rafael é um empreendedor que está construindo seu próprio negócio do zero. E
 | Davidson Silva       | Ter um perfil pessoal que torne possível fazer login/logoff | Maior a usabilidade e individualização do usuário |
 | Ben Affleck          | Preciso de um calendário para olhar os dias disponíveis de cada trabalho oferecido | Organizar meu dia e marcar com antecedência     |
 
-Agora a tabela está organizada corretamente.
 
 ## Requisitos
 
