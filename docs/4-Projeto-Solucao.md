@@ -31,17 +31,38 @@ proporcionados pela plataforma.
 
 ## 4.1. Arquitetura da solução
 
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
- Inclua um diagrama da solução e descreva os módulos e as tecnologias
- que fazem parte da solução. Discorra sobre o diagrama.
  
  **Diagrama de Arquitetura**:
  
 <div align = "center">
 <img width="700px" alt="historiaUsuario" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143443978/eee1f88f-d068-484d-8989-bcd87b19ca71">
 </div>
+
+
+**Diagrama da Solução**
+O diagrama mostra uma solução composta por três módulos principais:
+
+**Navegador:** Responsável por exibir a interface da plataforma aos usuários.
+**Hospedagem:** Armazena e executa o código da plataforma.
+**API:** Fornece acesso aos dados e funcionalidades da plataforma.
+
+**Módulo do Navegador**
+O módulo do navegador é composto por páginas web que definem o conteúdo e a aparência da plataforma. As páginas web são escritas em HTML, CSS e JavaScript.
+
+**Módulo de Hospedagem**
+O módulo de hospedagem é responsável por armazenar e executar o código da plataforma. A plataforma pode ser hospedada em um servidor local ou em um provedor de hospedagem na nuvem.
+
+**Módulo de API**
+O módulo de API fornece acesso aos dados e funcionalidades da plataforma. A API pode ser acessada por meio de chamadas HTTP ou por meio de uma biblioteca cliente.
+
+**Tecnologias Utilizadas**
+A solução utiliza as seguintes tecnologias:
+**HTML:** Linguagem de marcação para definir a estrutura das páginas web.
+**CSS:** Linguagem de estilo para definir a aparência das páginas web.
+**JavaScript:** Linguagem de programação para adicionar interatividade às páginas web.
+**Replit:** Plataforma online que permite desenvolver, testar e hospedar projetos em tempo real.
+**Google Maps Platform:** Plataforma que fornece APIs para integrar mapas e outros dados geográficos em aplicativos.
+**Google My Business:** Plataforma que permite gerenciar informações de negócios online.
  
 
 ### 4.2. Protótipos de telas
