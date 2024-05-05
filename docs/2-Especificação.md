@@ -2,13 +2,11 @@
 
 <span style="color:red">Pré-requisitos: <a href="01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Nesta seção, partimos dos pré-requisitos estabelecidos pela Documentação de Contexto para definir o problema e conceber soluções centradas no usuário. Abordaremos a criação de diagramas de personas, a elaboração de histórias de usuários, a identificação de requisitos funcionais e não funcionais, bem como as restrições do projeto. Utilizando técnicas de design thinking para a definição dos stakeholders, metodologias ágeis e modelagem de requisitos, buscamos garantir uma compreensão abrangente e precisa dos objetivos do projeto, fornecendo assim uma base sólida para sua execução.
 
 ## Personas
 
-Ana, a executiva sobrecarregada: 
+1. Ana, a executiva sobrecarregada: 
 
 Ana é uma executiva de uma empresa de tecnologia que trabalha longas horas e viaja com frequência a negócios. Ela está constantemente ocupada com reuniões, prazos e compromissos profissionais. Embora ela adore sua carreira, sua agenda agitada significa que ela tem pouco tempo para cuidar das tarefas domésticas. Ela precisa de um serviço de limpeza confiável para manter sua casa em ordem enquanto ela está ausente e para ajudá-la nos raros momentos em que ela está em casa. 
 
@@ -17,7 +15,7 @@ Ana é uma executiva de uma empresa de tecnologia que trabalha longas horas e vi
 </div>
 
 
-Carlos Ferreira, o pai solo: 
+2. Carlos Ferreira, o pai solo: 
 
 Carlos é um pai solo que trabalha em período integral para sustentar sua família. Ele é responsável por cuidar de seus dois filhos pequenos, levá-los à escola, ajudar com a lição de casa e preparar as refeições. Com sua agenda lotada, Carlos tem dificuldade em encontrar tempo para realizar reparos e manutenções em casa. Ele precisa de um serviço de manutenção domiciliar que possa lidar com tarefas como consertar torneiras com vazamento, substituir lâmpadas queimadas e realizar outras pequenas reformas. 
 
@@ -25,7 +23,7 @@ Carlos é um pai solo que trabalha em período integral para sustentar sua famí
 <img <img width="350px"alt="paisolo" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/94268d2a-a092-43bf-891a-bea1fb039d80">
 </div>
 
-Carla, a cuidadora de animais e plantas: 
+3. Carla, a cuidadora de animais e plantas: 
 
 Carla é uma amante dos animais e das plantas que decidiu transformar sua paixão em um negócio. Ela oferece serviços de cuidados para animais de estimação, incluindo passeios, alimentação, limpeza e companhia para cães, gatos e outros animais domésticos. Além disso, Carla também oferece serviços de jardinagem e cuidados com plantas para clientes que precisam de ajuda para manter seus jardins e plantas de interior saudáveis e bonitos. 
 
@@ -33,7 +31,7 @@ Carla é uma amante dos animais e das plantas que decidiu transformar sua paixã
 <img <img width="350px" alt="carlacuidadora" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/ab47c409-fcee-43eb-bb9f-2e94501bdc4c">
 </div>
 
-Maria, a médica plantonista: 
+4. Maria, a médica plantonista: 
 
 Maria é uma médica que trabalha em regime de plantão em um hospital. Seu trabalho imprevisível muitas vezes a mantém ocupada durante a noite e nos fins de semana. Quando ela finalmente tem tempo livre, prefere relaxar e recarregar suas energias em vez de se preocupar com as tarefas domésticas. Ela precisa de um serviço de entrega de alimentos saudáveis e preparados para ajudá-la a manter uma dieta equilibrada e nutritiva, mesmo nos dias em que está muito ocupada para cozinhar. 
 
@@ -41,7 +39,7 @@ Maria é uma médica que trabalha em regime de plantão em um hospital. Seu trab
 <img <img width="350px"alt="mariamedica" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/f15c2075-b02b-42da-83b3-7bd75680b958">
 </div>
 
-Rafael, o empreendedor: 
+5. Rafael, o empreendedor: 
 
 Rafael é um empreendedor que está construindo seu próprio negócio do zero. Ele passa a maior parte do tempo trabalhando em seu escritório em casa, desenvolvendo sua ideia de negócio, fazendo chamadas, respondendo e-mails e participando de reuniões online. Com todo esse trabalho, Rafael não tem tempo para cuidar do jardim de sua casa, que está se tornando uma bagunça. Ele precisa de um serviço de paisagismo que possa manter seu jardim bem cuidado. 
 
@@ -49,15 +47,6 @@ Rafael é um empreendedor que está construindo seu próprio negócio do zero. E
 <img <img width="350px" alt="rafael empreendedor" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143142269/878ee739-1277-424f-a8f2-9bd0a64db261">
 </div>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 <div align = "center">
@@ -99,8 +88,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
