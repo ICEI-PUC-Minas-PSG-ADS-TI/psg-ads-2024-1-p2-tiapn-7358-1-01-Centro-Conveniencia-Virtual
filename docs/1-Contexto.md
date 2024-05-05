@@ -10,13 +10,6 @@ O problema que a aplicação visa resolver é a falta de uma plataforma centrali
 
 O contexto em que essa aplicação será usada é o cenário moderno caracterizado pelas relações sociais e institucionais são fluidas e rápidas, demandando respostas ágeis e adaptações constantes. A plataforma proposta se alinha a essa dinâmica social, oferecendo uma solução  que atende às necessidades contemporâneas por meio de um website.
 
-// verificar depois
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 Objetivo Geral:
@@ -50,8 +43,3 @@ Portanto, um site que funcione como um hub de serviços personalizados, bem como
 
 Diante do proposto, o website funcionará como uma nova oportunidade para contratar serviços e recebê-los, tendo como público-alvo pessoas que estão ocupadas no dia a dia e indivíduos que buscam maneiras de ganhar um dinheiro extra ou ter um hobby. Portanto, o site é voltado para aqueles que desejam oferecer serviços, bem como para aqueles que estão em busca deles. Dessa forma, alguns indivíduos vão disponibilizar serviços de jardinagem, reparos domésticos, cuidado de crianças ou idosos, culinária, tarefas domésticas, dentre outros, bem como as pessoas que necessitam desses serviços por falta de tempo em suas rotinas ou por não saberem realizar determinadas tarefas e precisarem de ajuda, poderão contratá-los. 
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
