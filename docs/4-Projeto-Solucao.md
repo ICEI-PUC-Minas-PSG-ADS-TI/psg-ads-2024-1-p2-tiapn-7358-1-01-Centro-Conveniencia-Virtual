@@ -37,9 +37,11 @@ proporcionados pela plataforma.
  Inclua um diagrama da solução e descreva os módulos e as tecnologias
  que fazem parte da solução. Discorra sobre o diagrama.
  
- **Exemplo do diagrama de Arquitetura**:
+ **Diagrama de Arquitetura**:
  
- ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
+<div align = "center">
+<img width="700px" alt="historiaUsuario" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/assets/143443978/eee1f88f-d068-484d-8989-bcd87b19ca71">
+</div>
  
 
 ### 4.2. Protótipos de telas
