@@ -49,6 +49,7 @@ O diagrama mostra uma solução composta por três módulos principais:
 **API:** Fornece acesso aos dados e funcionalidades da plataforma. O módulo de API fornece acesso aos dados e funcionalidades da plataforma. A API pode ser acessada por meio de chamadas HTTP ou por meio de uma biblioteca cliente.
 
 
+
 **Tecnologias Utilizadas**
 A solução utiliza as seguintes tecnologias:
 **HTML:** Linguagem de marcação para definir a estrutura das páginas web.
