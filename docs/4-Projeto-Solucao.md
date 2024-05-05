@@ -42,18 +42,12 @@ proporcionados pela plataforma.
 **Diagrama da Solução**
 O diagrama mostra uma solução composta por três módulos principais:
 
-**Navegador:** Responsável por exibir a interface da plataforma aos usuários.
-**Hospedagem:** Armazena e executa o código da plataforma.
-**API:** Fornece acesso aos dados e funcionalidades da plataforma.
+**Navegador:** Responsável por exibir a interface da plataforma aos usuários. O módulo do navegador é composto por páginas web que definem o conteúdo e a aparência da plataforma. As páginas web são escritas em HTML, CSS e JavaScript.
 
-**Módulo do Navegador**
-O módulo do navegador é composto por páginas web que definem o conteúdo e a aparência da plataforma. As páginas web são escritas em HTML, CSS e JavaScript.
+**Hospedagem:** Armazena e executa o código da plataforma. O módulo de hospedagem é responsável por armazenar e executar o código da plataforma. A plataforma pode ser hospedada em um servidor local ou em um provedor de hospedagem na nuvem.
 
-**Módulo de Hospedagem**
-O módulo de hospedagem é responsável por armazenar e executar o código da plataforma. A plataforma pode ser hospedada em um servidor local ou em um provedor de hospedagem na nuvem.
+**API:** Fornece acesso aos dados e funcionalidades da plataforma. O módulo de API fornece acesso aos dados e funcionalidades da plataforma. A API pode ser acessada por meio de chamadas HTTP ou por meio de uma biblioteca cliente.
 
-**Módulo de API**
-O módulo de API fornece acesso aos dados e funcionalidades da plataforma. A API pode ser acessada por meio de chamadas HTTP ou por meio de uma biblioteca cliente.
 
 **Tecnologias Utilizadas**
 A solução utiliza as seguintes tecnologias:
