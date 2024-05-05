@@ -1,22 +1,25 @@
 # 5. Gerenciamento do Projeto
 
-> Aqui será feito o gerenciamento das tarefas de implementação do projeto.
-
 ## 5.1. Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo em cada sprint. O desejável é que, em cada sprint, o aluno assuma papéis diferentes na disciplina. Siga o modelo do exemplo abaixo:
-
 ### Sprint 1
-- _Scrum master_: AlunaX
-- Protótipos: AlunoY
-- Testes: AlunoK
-- Documentação: AlunaZ
+- _Scrum master_: Iago Pereira Alves
+- Protótipos: Gabriela Cristina Freitas de Lima
+- Testes: Mariana Martins Moreira
+- Documentação: Sara Marçal Rocha
 
 ### Sprint 2
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+- _Scrum master_: Sara Marçal Rocha
+- Desenvolvedor _front-end_: Gabriela Cristina Freitas de Lima
+- Desenvolvedor _back-end_: Iago Pereira Alves
+- Testes: Mariana Martins Moreira
+
+### Sprint 3
+- _Scrum master_: Gabriela Cristina Freitas de Lima
+- Desenvolvedor _front-end_: Sara Marçal Rocha 
+- Desenvolvedor _back-end_: Mariana Martins Moreira
+- Testes: Iago Pereira Alves
+
 
 ## 5.1. Quadro de tarefas
 
@@ -24,14 +27,14 @@
 
 ## Sprint 1
 
-Atualizado em: 21/04/2024
+Atualizado em: 05/05/2024
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| Sara Marçal Rocha         | Introdução |15/02/2024 |11/03/2024| ✔️    | 09/03/2024 |
+| Mariana Martins Moreira | Objetivos    |15/02/2024 |11/03/2024| ✔️    | 09/03/2024 |
+| Iago Pereira Alves | Histórias de usuário  |15/02/2024 |11/03/2024| ✔️     | 09/03/2024 |
+| Gabriela Cristina Freitas de Lima | Personas 1  |15/02/2024 |11/03/2024| ✔️   | 09/03/2024 |
 
 ## Sprint 2
 
