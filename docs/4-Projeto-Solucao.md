@@ -78,6 +78,34 @@ _Apresente o modelo de dados por meio de um modelo relacional que contemple todo
 
 #### 4.3.1 Modelo ER
 
+Entidades: 
+
+Cliente 
+
+Profissional 
+
+Serviço 
+
+ 
+
+Atributos: 
+
+Cliente: ID_Cliente (PK), Nome, Email, Telefone, CPF 
+
+Profissional: ID_Profissional (PK), Nome, Especialidade, Email, CPF 
+
+Serviço: ID_Serviço (PK), Nome, Descrição, Preço 
+
+  
+
+Relacionamentos: 
+
+Cliente compra Produto (M:N) 
+
+Profissional realiza Serviço (M:N) 
+
+
+
 <div align = "center">
 <img <img width="650px"alt="Principal" src="https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/blob/main/docs/images/diagrama4.3.jpeg?raw=true">
 </div>
