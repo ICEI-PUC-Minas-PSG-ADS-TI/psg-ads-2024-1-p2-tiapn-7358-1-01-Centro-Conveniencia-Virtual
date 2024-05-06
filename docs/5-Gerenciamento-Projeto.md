@@ -47,6 +47,7 @@ Atualizado em: 05/05/2024
 |Todos | Projeto da Solução |22/04/2024| 29/04/2024 |✔️| 29/04/2024 |
 |Todos | Protótipo de telas | 22/04/2024 | 29/04/2024 |   ✔️     |04/05/2024 |
 | Todos | Tecnologias e arquitetura da aplicação | 29/04/2024 | 29/04/2024 |   ✔️     |04/05/2024 |
+| Sara Rocha | Script do bd | 29/04/2024 | 29/04/2024 |   ✔️     |04/05/2024 |
 
 
 
