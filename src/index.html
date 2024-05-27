@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Início</title>
+    <link rel="stylesheet" href="css/principal.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  
+</head>
+<body>
+  <header>
+      <nav class="nav-bar">
+          <div class="logo">
+              <img src="img/logo.jpg" alt="Logo" width="200" height="200">
+          </div>
+          <div class="nav-list">
+              <ul>
+                  <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+                  <li class="nav-item"><a href="servicos.html" class="nav-link">Serviços</a></li>
+                  <li class="nav-item"><a href="sobre nos.html" class="nav-link">Sobre nós</a></li>
+              </ul>
+          </div>
+          <div class="button-list">
+              <ul>
+                  <li class="button-item">
+                      <div class="register-button">
+                          <button><a href="cadastro.html">Cadastra-se</a></button>
+                      </div>
+                  </li>
+                  <li class="button-item">
+                      <div class="login-button">
+                          <button><a href="login.html">Entrar</a></button>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+          <div class="mobile-menu-icon">
+              <button onclick="menuShow()"><img class="icon" src="imagens logo/menu_white_36dp.svg" alt=""></button>
+          </div>
+      </nav>
+      <div class="mobile-menu">
+          <ul>
+              <li class="nav-item"><a href="principal.html" class="nav-link">Início</a></li>
+              <li class="nav-item"><a href="servicos.html" class="nav-link">Servicos</a></li>
+              <li class="nav-item"><a href="sobre nos.html" class="nav-link">Sobre nós</a></li>
+          </ul>
+          <div class="login-button">
+              <button><a href="login.html">Entrar</a></button>
+          </div>
+      </div>
+  </header>
+  
+    <div>
+      <div class="container text-center">
+        <div class="row align-items-start">
+          <div class="col-12">
+          <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="img/servico-construcao.png" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="img/servico-domestico.png" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                <img src="img/servico-jardinagem.png" class="d-block w-100" alt="...">
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+
+    <div class="container-fluid">
+        <div class="row mb- mt-3">
+            <h3>Escolha uma categoria de Serviços</h3>
+        </div>
+
+        <div id="group-cards" class="row">
+            <div class="input-cards col-md-3 col-6 mb-2">
+              <div class="card">
+                <img src="img/servico1.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Construção</h5>
+                    <p class="card-text">Serviços de construção, reforma e melhorias em propriedades. Inclui pequenos reparos e projetos maiores de construção civil.</p>
+                    <a href="#" class="btn btn-primary">Encontrar profissionais </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="input-cards col-md-3 col-6 mb-2">
+              <div class="card">
+                <img src="img/servico2.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Pintura</h5>
+                    <p class="card-text">Serviços de pintura de superfícies, internas ou externas. Inclui aplicação de tinta em paredes e renovação de fachadas.</p>
+                    <a href="#" class="btn btn-primary">Encontrar profissionais</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="input-cards col-md-3 col-6 mb-2">
+              <div class="card">
+                <img src="img/servico3.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Cozinha</h5>
+                    <p class="card-text">Serviços de preparação e manipulação de alimentos.Isso inclui auxílio em pequenas refeições ao de preparo grandes quantidades.</p>
+                    <a href="#" class="btn btn-primary">Encontrar profissionais</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="input-cards col-md-3 col-6 mb-2">
+              <div class="card">
+                <img src="img/servico4.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Faxina</h5>
+                    <p class="card-text">Serviços de limpeza e manutenção em ambientes residenciais e comerciais. Inclui limpeza diária e faxina pesada.</p>
+                    <a href="#" class="btn btn-primary">Encontrar profissionais</a>
+                </div>
+              </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="banner-container">
+
+      <div class="banner">
+
+        <div class="message">
+          <p>Nós criamos este espaço com muito carinho para ajudar você. Queremos que você se sinta em casa aqui. Navegar pelo nosso site é super fácil, e estamos sempre prontos para te ajudar. Nossa equipe de suporte  amigável está disponível o tempo todo para qualquer dúvida. Explore nossas seções e descubra tudo o que preparamos para tornar sua experiência a melhor possível. Estamos aqui para te apoiar em cada passo do caminho!</p>
+        </div>
+
+        <div class="people">
+          <img src="img/imgbanner2.svg" alt="">
+        </div>
+
+      </div>
+
+    </div>
+            
+            </div>
+          </div>
+        </div>
+      <iframe src="footer.html" frameborder="0" scrolling="no" width="100%" height="150"></iframe>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+          </body>
+</html>
