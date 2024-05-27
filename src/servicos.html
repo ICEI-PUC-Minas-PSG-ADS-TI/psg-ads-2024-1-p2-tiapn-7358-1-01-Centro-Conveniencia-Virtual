@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serviço Online</title>
+    <link rel="stylesheet" href="css/servicos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logo">
+                <img src="img/logo.jpg" alt="Logo" width="200" height="200">
+            </div>
+            <div class="nav-list">
+                <ul>
+                    <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+                    <li class="nav-item"><a href="servicos.html" class="nav-link">Serviços</a></li>
+                    <li class="nav-item"><a href="sobre nos.html" class="nav-link">Sobre nós</a></li>
+                </ul>
+            </div>
+            <div class="button-list">
+                <ul>
+                    <li class="button-item">
+                        <div class="register-button">
+                            <button><a href="cadastro.html">Cadastra-se</a></button>
+                        </div>
+                    </li>
+                    <li class="button-item">
+                        <div class="login-button">
+                            <button><a href="login.html">Entrar</a></button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="mobile-menu-icon">
+                <button onclick="menuShow()"><img class="icon" src="imagens logo/menu_white_36dp.svg" alt=""></button>
+            </div>
+        </nav>
+        <div class="mobile-menu">
+            <ul>
+                <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+                <li class="nav-item"><a href="servicos.html" class="nav-link">Serviços</a></li>
+                <li class="nav-item"><a href="sobre nos.html" class="nav-link">Sobre nós</a></li>
+            </ul>
+            <div class="login-button">
+                <button><a href="login.html">Entrar</a></button>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="profile-section">
+            <img src="img/usuario.jpg" alt="Foto do Usuário" class="profile-photo">
+            <h2 class="service-title">Sobre o Serviço</h2>
+            <button class="hire-button">QUERO CONTRATAR</button>
+        </div>
+        <div class="details-section">
+            <div class="rating">
+                <h3>Avaliação</h3>
+                <div class="stars">
+                    <i class="fas fa-star star" data-value="1"></i>
+                    <i class="fas fa-star star" data-value="2"></i>
+                    <i class="fas fa-star star" data-value="3"></i>
+                    <i class="fas fa-star star" data-value="4"></i>
+                    <i class="fas fa-star star" data-value="5"></i>
+                </div>
+                <input type="text" class="user-name" placeholder="Seu nome">
+                <textarea class="comment" placeholder="Comentário"></textarea>
+                <button class="submit-comment">Enviar Comentário</button>
+                <div class="comments-list">
+                    <h3>Comentários</h3>
+                    <div id="comments-container"></div>
+                </div>
+            </div>
+            <div class="pricing">
+                <h3>Preços</h3>
+                <div class="price-icon">
+                    <i class="fas fa-money-bill-wave"></i>
+                </div>
+                <div class="price-details">
+                    <div class="price-item">
+                        <h4>Serviços Básicos</h4>
+                        <div class="price-value"> R$ 50,00 - R$ 100,00</div>
+                        <p class="price-description">Ideal para quem precisa de um serviço rápido e eficiente.</p>
+                        <button class="choose-plan">Escolher</button>
+                    </div>
+                    <div class="price-item">
+                        <h4>Serviços Premiuns</h4>
+                        <div class="price-value">R$ 200,00 - R$400,00</div>
+                        <p class="price-description">Para quem busca um atendimento completo e personalizado.</p>
+                        <button class="choose-plan">Escolher</button>
+                    </div>
+                </div>
+            </div>
+            <div class="schedule">
+                <h5>Dia e Horário</h5>
+                <div class="calendar-icon"><i class="fas fa-calendar-alt"></i></div>
+                <input type="datetime-local" class="schedule-input">
+            </div>
+
+            <div class="chatbox" id="chatbox">
+                <div class="chatbox-header">
+                    <span>Chat com o Profissional</span>
+                    <button class="close-chatbox">&times;</button>
+                </div>
+                <div class="chatbox-body" id="chatbox-body">
+                    <div class="message received">Olá! Como posso ajudar você hoje?</div>
+                </div>
+                <div class="chatbox-footer">
+                    <input type="text" id="chat-input" placeholder="Digite sua mensagem">
+                    <button id="send-message">Enviar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-container">
+            <ul>
+                <h2>Warey</h2>
+                <p>A colaboração começa aqui.</p>
+                <div class="redes-sociais">
+                    <a href="#"><img src="img/facebook.svg" alt="facebook"></a>
+                    <a href="#"><img src="img/twitter-x.svg" alt="twitter-x"></a>
+                    <a href="#"><img src="img/instagram.svg" alt="instagram"></a>
+                    <a href="#"><img src="img/linkedin.svg" alt="linkedin"></a>
+                </div>
+            </ul>
+            <ul>
+                <h2>Contatos</h2>
+                <li>
+                    <p>+55 3456-1238</p>
+                </li>
+                <li>
+                    <p>warey@gmail.com</p>
+                </li>
+                <li>
+                    <p>Brasil</p>
+                </li>
+            </ul>
+        </div>
+        <div class="footer-copyright">
+            &#169; 2024 All rights reserved
+        </div>
+    </footer>
+     <script src="servicos.js"></script>
+</body>
+</html>
