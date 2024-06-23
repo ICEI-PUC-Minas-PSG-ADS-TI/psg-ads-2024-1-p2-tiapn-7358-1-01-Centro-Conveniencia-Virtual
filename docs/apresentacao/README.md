@@ -16,8 +16,7 @@
 > - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
 
 ## Slides
-
-Coloque aqui os slides da apresentação
+https://github.com/ICEI-PUC-Minas-PSG-ADS-TI/psg-ads-2024-1-p2-tiapn-7358-1-01-Centro-Conveniencia-Virtual/issues/1#issue-2368946031
 
 ## Vídeo
 
